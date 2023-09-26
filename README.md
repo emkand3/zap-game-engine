@@ -10,4 +10,4 @@ This game engine consists of multiple different engines, including actor, physic
    - Hangman was created to demonstrate the drawing of shapes, along with gathering user input during the project.
 
 3. Fall Game Jam
-  - This game was created for a club game jam themed around 'Fall', in which you must catch falling leaves as they spawn at the top of the screen and fall to the bottom. If you catch them before they hit the bottom of the stage, you gain a point.
+   - This game was created for a club game jam themed around 'Fall', in which you must catch falling leaves as they spawn at the top of the screen and fall to the bottom. If you catch them before they hit the bottom of the stage, you gain a point.
